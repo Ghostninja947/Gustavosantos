@@ -27,7 +27,6 @@ Sou um **programador front-end apaixonado por criar soluções web robustas e es
 ### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 ### Ferramentas
@@ -40,5 +39,6 @@ Sou um **programador front-end apaixonado por criar soluções web robustas e es
 ## 📫 Como me encontrar
 
 - 📧 Email: gustavocarrera.santos10@gmail.com
+- Linkedin: www.linkedin.com/in/gustavo-carrera-santos-5a736b3ab
 
 ---
